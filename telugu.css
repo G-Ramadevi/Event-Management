@@ -1,0 +1,64 @@
+.container-fluid{
+    border: 10px solid rgb(59, 55, 54);
+
+}
+#row{
+    border:10px solid rgb(232, 122, 43);;
+
+}
+.col{
+   background-color: rgb(242, 228, 165);
+}
+
+#header{
+    background-color: rgb(242, 228, 165);
+    font-family: 'Brush Script MT', cursive;
+      
+ }
+ #footer{
+   background-color: whitesmoke;
+   /* font-family: 'Brush Script MT', cursive; */
+     
+}
+ .resize_fit_center {
+    max-width:300%;
+    max-height:100%;
+}
+ #container{
+    background-color: rgb(242, 228, 165);
+    font-family: 'Brush Script MT', cursive;
+      
+ }
+ #rowt{
+    background-color: rgb(189, 201, 175);
+    font-family: 'Brush Script MT', cursive;
+      
+ }
+ #list{
+   /* background-color: rgb(189, 201, 175); */
+   font-family:bold;
+     
+}
+h1{
+   background-color: rgb(95, 193, 217);
+   font-family: 'Brush Script MT', cursive;
+}
+.an{
+   background-color: rgb(95, 193, 217);
+   font-family: 'Brush Script MT', cursive;
+}
+ h2{
+   background-color: rgb(215, 220, 210);
+   font-family: 'Brush Script MT', cursive;
+     
+}
+ #col{
+    background-color: rgb(230, 236, 236);
+    /* font-family: 'Brush Script MT', cursive; */
+      
+ }
+ .resize_fit_center {
+    max-width:300%;
+    max-height:100%;
+ }
+ 
